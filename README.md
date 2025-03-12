@@ -23,10 +23,10 @@ AfricaApp is an interactive iOS application that provides users with an engaging
 ## 🚀 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/mansinerkar-11/AfricaApp.git
+git clone https://github.com/mansinerkar-11/Africa.git
 
 # Open the project in Xcode
-cd AfricaApp
+cd Africa
 open AfricaApp.xcodeproj
 
 # Run on Simulator or Device
